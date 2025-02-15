@@ -1,0 +1,15 @@
+
+/* InputForm.css */
+.dialog-container {
+     background-color: #1a1a1a ;
+     color: white;
+     }
+.input-container {
+      align-items: center;
+       margin-bottom: 10px; 
+    }
+.icon { 
+    margin-right: 10px;
+     color: black; }
+.email-input { color: white !important; }
+.invite-options { display: flex; flex-direction: column; gap: 10px; }

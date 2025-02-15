@@ -1,15 +1,26 @@
-* {
-    margin: 0;
-    padding: 0;
-    background-color: #242424;
+
+
+html {
+  background-color: #242424;
+}
+
+body {
+  background-color: #242424;
+}
+    
+
+.hero-container { 
+  background-color: #242424;
+  text-align: center;
+   margin-top: 40px; 
    
-    color: white; /* Ensure text color is white for better contrast */
-  }
-  
-  html {
-    background-color: #242424;
-  }
-  
-  body {
-    background-color: #242424;
-  }
+   color: white; }
+.hero-title { 
+  padding-top: 1.2rem; 
+  background-color: #242424 ;
+}
+.hero-image { width: 100%; max-width: 500px; height: auto; margin-bottom: 20px; }
+.refer-button { 
+  background-color: #242424 ;
+  margin: 20px 0; 
+}
